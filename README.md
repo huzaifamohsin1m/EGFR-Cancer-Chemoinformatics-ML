@@ -4,7 +4,8 @@ An in silico data analytics and machine learning pipeline to predict chemical co
 # Building a Predictive Machine Learning Model for Human Epidermal Growth Factor Receptor (EGFR) Inhibitors in Cancer Therapeutics
 
 **Author:** Huzaifa Mohsin 
-**Status:** Undergraduate Chemistry Student (6th Semester)  
+**Co-Author:** Marryam R
+**Status:** Final Year Undergraduate Chemistry Student
 **Methodology:** In Silico Chemoinformatics & Data Analytics (No-Lab Workflow)  
 **Project Goal:** To construct a robust, deployment-ready machine learning classifier capable of predicting the biological activity of novel chemical compounds against breast and lung cancer proteins.
 
